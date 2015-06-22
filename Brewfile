@@ -29,19 +29,26 @@ brew mpfr2
 brew openssl098
 brew ppl011
 
-## josegonzalez/php
-tap josegonzalez/php
-
-## peco/peco
-# tap peco/peco
-brew migemogrep
-brew peco
-
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew libcaca
+brew libevent
+brew libffi
+brew libgpg-error
+brew libksba
+brew libmaa
+brew libmpc
+brew libpng
+brew libssh2
+brew libtiff
+brew libtool
+brew libxml2
+brew libxslt
+brew libyaml
+brew git
 brew autoconf
 brew autojump
 brew automake
@@ -72,7 +79,6 @@ brew gdbm
 brew gettext
 brew gflags
 brew ghc
-brew git
 brew git-now
 brew glib
 brew gmp
@@ -91,20 +97,6 @@ brew jasper
 brew javarepl
 brew jpeg
 brew jq
-brew libcaca
-brew libevent
-brew libffi
-brew libgpg-error
-brew libksba
-brew libmaa
-brew libmpc
-brew libpng
-brew libssh2
-brew libtiff
-brew libtool
-brew libxml2
-brew libxslt
-brew libyaml
 brew little-cms
 brew lv
 brew lynx
@@ -162,37 +154,82 @@ brew wxmac
 brew xz
 brew zsh
 
+## peco/peco
+# tap peco/peco
+brew migemogrep
+brew peco
+
+# Main tap repository for brew-cask
+install caskroom/cask/brew-cask
+
+# Apps installed directly instead of by Cask in brew-cask
+cask install xquartz #/Applications/Utilities/XQuartz.app
+cask install fontforge #/Applications/Utilities/XQuartz.app
+cask install alfred #/Applications/Alfred 2.app
+cask alfred link
+cask install anki #/Applications/Anki.app
+cask install appcleaner #/Applications/AppCleaner.app
+cask install bettertouchtool #/Applications/BetterTouchTool.app
+cask install disk-inventory-x #/Applications/Disk Inventory X.app
+cask install dragondrop #/Applications/DragonDrop.app
+cask install dropbox #/Applications/Dropbox.app
+cask install firefox #/Applications/Firefox.app
+cask install gifzo #/Applications/Gifzo.app
+cask install gimp #/Applications/GIMP.app
+cask install google-chrome #/Applications/Google Chrome.app
+cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
+cask install iterm2 #/Applications/iTerm.app
+cask install jenkins #/Applications/Jenkins
+cask install karabiner #/Applications/Karabiner.app
+cask install keycastr #/Applications/KeyCastr.app
+cask install kindle #/Applications/Kindle.app
+cask install kobito #/Applications/Kobito.app
+cask install macs-fan-control #/Applications/Macs Fan Control.app
+cask install mysqlworkbench #/Applications/MySQLWorkbench.app
+cask install p4merge #/Applications/p4merge.app
+cask install skype #/Applications/Skype.app
+cask install sourcetree #/Applications/SourceTree.app
+cask install totalterminal #/Applications/TotalTerminal.app
+cask install unity #/Applications/Unity
+cask install vagrant #/Applications/Vagrant
+cask install virtualbox #/Applications/VirtualBox.app
+cask install wireshark #/Applications/Wireshark.app
+cask install xmind #/Applications/XMind.app
+# cask install macvim #/Applications/MacVim.app
+
+brew ricty , args: ['powerline', 'vim-powerline']
+
 # App Store applications
-appstore 1Keyboard
-appstore Bubble Browser
-appstore clip.share
-appstore Dash
-appstore Deckset
-appstore DragonDrop
-appstore Eggscellent
-appstore Evernote
-appstore FeedNotifier
-appstore FreeRAMBooster
-appstore GarageBand
-appstore Growl
-appstore iMovie
-appstore iPhoto
-appstore LINE
-appstore Monotony
-appstore moveAddict
-appstore Pomodoro Timer
-appstore PomodoroApp
-appstore PopClip
-appstore Pushbullet
-appstore SketchBookExpress
-appstore Skitch
-appstore StuffIt Expander
-appstore SVG Converter
-appstore SVG to Image
-appstore TaskPaper
-appstore Time Track Pro
-appstore Timer
-appstore Tumblr
-appstore WinArchiver
-appstore Xcode
-appstore YoruFukurou
+# appstore 1Keyboard
+# appstore Bubble Browser
+# appstore clip.share
+# appstore Dash
+# appstore Deckset
+# appstore DragonDrop
+# appstore Eggscellent
+# appstore Evernote
+# appstore FeedNotifier
+# appstore FreeRAMBooster
+# appstore GarageBand
+# appstore Growl
+# appstore iMovie
+# appstore iPhoto
+# appstore LINE
+# appstore Monotony
+# appstore moveAddict
+# appstore Pomodoro Timer
+# appstore PomodoroApp
+# appstore PopClip
+# appstore Pushbullet
+# appstore SketchBookExpress
+# appstore Skitch
+# appstore StuffIt Expander
+# appstore SVG Converter
+# appstore SVG to Image
+# appstore TaskPaper
+# appstore Time Track Pro
+# appstore Timer
+# appstore Tumblr
+# appstore WinArchiver
+# appstore Xcode
+# appstore YoruFukurou
