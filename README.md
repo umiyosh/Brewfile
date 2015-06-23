@@ -1,5 +1,9 @@
 # 自分のBrewfile
 
+# a precondition
+
+install xcode from AppStore. And Command line tools.
+
 # bootstrap
 
 ~~~ bash
