@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # go-get
 # TODO: 開発環境回りsetup

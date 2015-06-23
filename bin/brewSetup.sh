@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # install Homebrew
 sudo xcodebuild -license

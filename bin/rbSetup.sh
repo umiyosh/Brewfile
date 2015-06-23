@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # ruby-gem
 # TODO: 妥当なPATHの解決

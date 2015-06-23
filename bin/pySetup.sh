@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # python-pip
 # TODO: 妥当なPATHの解決

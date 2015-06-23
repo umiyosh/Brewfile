@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # アニメーションなどOFFにする
 defaults write com.apple.dock expose-animation-duration -float 0.1 ; killall Dock

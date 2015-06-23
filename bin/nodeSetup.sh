@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -eu
 
 # node-npm
 nodebrew install latest
