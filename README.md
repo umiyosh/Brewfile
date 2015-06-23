@@ -2,14 +2,24 @@
 
 # a precondition
 
-install xcode from AppStore. And Command line tools.
+* install xcode from AppStore. And Command line tools.
+* <code>ssh-kegen -t rsa</code> and add setting to Deploy key
 
 # bootstrap
+
+* Brewfile install
 
 ~~~ bash
 % git clone https://github.com/umiyosh/Brewfile.git
 % cd Brewfile
 % ./bin/brewSetup.sh
+~~~
+
+* set up Dropbox
+* plist restore
+
+~~~ bash
+% mackup restore
 ~~~
 
 # dotfiles
@@ -22,7 +32,6 @@ install xcode from AppStore. And Command line tools.
 % ./bin/misc.sh
 % ./bin/pySetup.sh
 % ./bin/goSetup.sh
-% brew install python
 % brew install rcmdnk/file/brew-file
 % brew file set_repo
 % ./bin/nodeSetup.sh
