@@ -3,6 +3,7 @@ set -eu
 
 # go-get
 # TODO: 開発環境回りsetup
-go get github.com/motemen/gore
-go get github.com/monochromegane/mdt/...
-
+cat ./goPackages | while read package
+do
+  go get $package
+done
