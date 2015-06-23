@@ -15,6 +15,7 @@
 # misc
 
 ~~~ bash
+% ./bin/misc.sh
 % ./bin/pySetup.sh
 % ./bin/goSetup.sh
 % brew install python
