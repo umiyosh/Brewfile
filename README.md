@@ -32,7 +32,6 @@
 % ./bin/misc.sh
 % ./bin/pySetup.sh
 % ./bin/goSetup.sh
-% brew install python
 % brew install rcmdnk/file/brew-file
 % brew file set_repo
 % ./bin/nodeSetup.sh
