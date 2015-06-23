@@ -154,6 +154,7 @@ brew wget
 brew wxmac
 brew xz
 brew zsh
+brew mackup
 
 ## peco/peco
 # tap peco/peco
