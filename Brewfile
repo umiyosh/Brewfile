@@ -1,6 +1,5 @@
 # tap repositories and their packages
-# TODO: mackup, osxcの導入
-#
+
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
