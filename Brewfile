@@ -175,7 +175,6 @@ cask install disk-inventory-x #/Applications/Disk Inventory X.app
 cask install dragondrop #/Applications/DragonDrop.app
 cask install dropbox #/Applications/Dropbox.app
 cask install firefox #/Applications/Firefox.app
-cask install gifzo #/Applications/Gifzo.app
 cask install gimp #/Applications/GIMP.app
 cask install google-chrome #/Applications/Google Chrome.app
 cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
