@@ -2,8 +2,9 @@
 set -eu
 
 # perl-cpanm
+# TODO: 妥当なPATHの解決
 curl -L https://cpanmin.us | perl - --sudo App::cpanminus
-cat ./perlModules | while read module
+cat ./perlPackages | while read package
 do
-  cpanm $module
+  cpanm $package
 done
