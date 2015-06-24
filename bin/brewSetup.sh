@@ -15,6 +15,3 @@ brew file install
 # Ricty for vim-powerline
 cp -f $(brew --cellar ricty)/*/share/fonts/Ricty*.ttf ~/Library/Fonts/
 
-# plist restore
-
-mackup restore
