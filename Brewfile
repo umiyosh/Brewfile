@@ -197,6 +197,8 @@ cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 # cask install macvim #/Applications/MacVim.app
 
+# ricty
+brew tap sanemat/font
 brew ricty , args: ['powerline', 'vim-powerline']
 
 # App Store applications
