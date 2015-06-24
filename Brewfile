@@ -190,7 +190,6 @@ cask install xmind #/Applications/XMind.app
 
 ## peco/peco
 # tap peco/peco
-brew migemogrep
 brew peco
 
 # App Store applications
