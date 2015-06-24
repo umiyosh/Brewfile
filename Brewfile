@@ -155,11 +155,6 @@ brew xz
 brew zsh
 brew mackup
 
-## peco/peco
-# tap peco/peco
-brew migemogrep
-brew peco
-
 # Main tap repository for brew-cask
 install caskroom/cask/brew-cask
 
@@ -200,6 +195,11 @@ cask install xmind #/Applications/XMind.app
 # ricty
 brew tap sanemat/font
 brew ricty , args: ['powerline', 'vim-powerline']
+
+## peco/peco
+# tap peco/peco
+brew migemogrep
+brew peco
 
 # App Store applications
 # appstore 1Keyboard
