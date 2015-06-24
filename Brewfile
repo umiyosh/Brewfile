@@ -185,7 +185,6 @@ cask install p4merge #/Applications/p4merge.app
 cask install skype #/Applications/Skype.app
 cask install sourcetree #/Applications/SourceTree.app
 cask install totalterminal #/Applications/TotalTerminal.app
-cask install unity #/Applications/Unity
 cask install vagrant #/Applications/Vagrant
 cask install virtualbox #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
