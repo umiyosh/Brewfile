@@ -133,7 +133,6 @@ brew python
 brew qt
 brew readline
 brew reattach-to-user-namespace
-brew s3fs
 brew sip
 brew spark
 brew sqlite
