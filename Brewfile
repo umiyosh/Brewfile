@@ -72,8 +72,6 @@ brew fish
 brew fontconfig
 brew fontforge
 brew freetype
-brew fuse4x
-brew fuse4x-kext
 brew gcc
 brew gdbm
 brew gettext
