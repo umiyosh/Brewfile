@@ -22,12 +22,16 @@
 
 * plist restore
 
+TODO: misc.sh化
+
 ~~~ bash
 % ln -s %HOME/dotfiles/.mackup.cfg $HOME/Dropbox/Mackup/.mackup.cfg
 % mackup restore
 ~~~
 
 # misc
+
+TODO: misc.sh化
 
 ~~~ bash
 % ./bin/misc.sh
