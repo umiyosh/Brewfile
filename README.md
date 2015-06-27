@@ -20,23 +20,6 @@
 
 * [umiyosh/dotfiles](https://github.com/umiyosh/dotfiles)
 
-* plist restore
-
-TODO: misc.sh化
-
-~~~ bash
-% ln -s %HOME/dotfiles/.mackup.cfg $HOME/Dropbox/Mackup/.mackup.cfg
-% mackup restore
-~~~
-
-# karabiner
-
-TODO: misc.sh化
-
-~~~
-% git clone https://github.com/umiyosh/KeyRemap4MacBook-private-xml.git $HOME/Library/Application\ Support/KeyRemap4MacBook
-~~~
-
 # misc
 
 TODO: misc.sh化
