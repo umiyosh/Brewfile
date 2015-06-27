@@ -16,15 +16,16 @@
 ~~~
 
 * set up Dropbox
-* plist restore
-
-~~~ bash
-% mackup restore
-~~~
-
 # dotfiles
 
 * [umiyosh/dotfiles](https://github.com/umiyosh/dotfiles)
+
+* plist restore
+
+~~~ bash
+% ln -s %HOME/dotfiles/.mackup.cfg $HOME/Dropbox/Mackup/.mackup.cfg
+% mackup restore
+~~~
 
 # misc
 
