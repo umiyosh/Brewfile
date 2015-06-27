@@ -33,6 +33,9 @@ brew ppl011
 tap rcmdnk/file
 brew brew-file
 
+# java
+cask installl java
+
 # Other Homebrew packages
 brew libcaca
 brew libevent
