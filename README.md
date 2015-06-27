@@ -29,6 +29,14 @@ TODO: misc.sh化
 % mackup restore
 ~~~
 
+# karabiner
+
+TODO: misc.sh化
+
+~~~
+% git clone https://github.com/umiyosh/KeyRemap4MacBook-private-xml.git $HOME/Library/Application\ Support/KeyRemap4MacBook
+~~~
+
 # misc
 
 TODO: misc.sh化
