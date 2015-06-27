@@ -72,8 +72,6 @@ brew fish
 brew fontconfig
 brew fontforge
 brew freetype
-brew fuse4x
-brew fuse4x-kext
 brew gcc
 brew gdbm
 brew gettext
@@ -135,7 +133,6 @@ brew python
 brew qt
 brew readline
 brew reattach-to-user-namespace
-brew s3fs
 brew sip
 brew spark
 brew sqlite
@@ -193,7 +190,6 @@ cask install xmind #/Applications/XMind.app
 
 ## peco/peco
 # tap peco/peco
-brew migemogrep
 brew peco
 
 # App Store applications
