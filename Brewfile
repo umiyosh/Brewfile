@@ -186,6 +186,7 @@ cask install vagrant #/Applications/Vagrant
 cask install virtualbox #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
+cask installl google-japanese-ime
 # cask install macvim #/Applications/MacVim.app
 
 ## peco/peco
