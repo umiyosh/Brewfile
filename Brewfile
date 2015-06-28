@@ -4,6 +4,9 @@
 tap caskroom/cask
 brew brew-cask
 
+# Dropbox
+cask install dropbox #/Applications/Dropbox.app
+
 ## homebrew/brewdler
 tap homebrew/brewdler
 
@@ -13,11 +16,6 @@ brew apple-gcc42
 brew libiconv
 brew openssh --with-keychain-support
 brew zlib
-
-## homebrew/php
-tap homebrew/php
-brew php55-phalcon
-brew php55
 
 ## homebrew/versions
 tap homebrew/versions
@@ -35,6 +33,11 @@ brew brew-file
 
 # java
 cask install java
+
+## homebrew/php
+tap homebrew/php
+brew php55-phalcon
+brew php55
 
 # Other Homebrew packages
 brew libcaca
@@ -71,7 +74,6 @@ brew ctags
 brew curl
 brew doxygen
 brew erlang
-brew fish
 brew fontconfig
 brew fontforge
 brew freetype
@@ -102,7 +104,6 @@ brew little-cms
 brew lv
 brew lynx
 brew makedepend
-brew mercurial
 brew mobile-shell
 brew mongodb
 brew mpfr
@@ -168,7 +169,6 @@ cask install appcleaner #/Applications/AppCleaner.app
 cask install bettertouchtool #/Applications/BetterTouchTool.app
 cask install disk-inventory-x #/Applications/Disk Inventory X.app
 cask install dragondrop #/Applications/DragonDrop.app
-cask install dropbox #/Applications/Dropbox.app
 cask install firefox #/Applications/Firefox.app
 cask install gimp #/Applications/GIMP.app
 cask install google-chrome #/Applications/Google Chrome.app
