@@ -24,3 +24,6 @@ if [[ ! -d $HOME/Library/Application\ Support/KeyRemap4MacBook ]]; then
   git clone https://github.com/umiyosh/KeyRemap4MacBook-private-xml.git $HOME/Library/Application\ Support/KeyRemap4MacBook
 fi
 
+if [[ ! -d $HOME/bin ]]; then
+  ln -s $HOME/Dropbox/bin $HOME/bin
+fi
