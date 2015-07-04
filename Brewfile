@@ -157,6 +157,10 @@ brew xz
 # brew zsh
 brew mackup
 
+# ricty
+tap sanemat/font
+brew ricty , args: ['powerline', 'vim-powerline']
+
 # Main tap repository for brew-cask
 install caskroom/cask/brew-cask
 
