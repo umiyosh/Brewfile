@@ -38,6 +38,7 @@ cask install java
 tap homebrew/php
 brew php55-phalcon
 brew php55
+brew homebrew/php/composer
 
 # Other Homebrew packages
 brew libcaca
