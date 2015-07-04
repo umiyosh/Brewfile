@@ -191,6 +191,7 @@ cask install virtualbox #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
+cask install menumeters
 # cask install macvim #/Applications/MacVim.app
 
 ## peco/peco
