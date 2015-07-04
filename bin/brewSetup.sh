@@ -13,5 +13,6 @@ brew file set_repo
 brew file install
 
 # Ricty for vim-powerline
-# cp -f $(brew --cellar ricty)/*/share/fonts/Ricty*.ttf ~/Library/Fonts/
-
+if [[ ! -e ~/Library/Fonts/Ricty-Regular-Powerline.ttf ]]; then
+  cp -f $(brew --cellar ricty)/*/share/fonts/Ricty*.ttf ~/Library/Fonts/
+fi
