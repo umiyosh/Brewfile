@@ -152,7 +152,7 @@ brew watch
 brew wget
 brew wxmac
 brew xz
-brew zsh
+# brew zsh
 brew mackup
 
 # Main tap repository for brew-cask
