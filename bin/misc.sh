@@ -15,7 +15,7 @@ killall Finder
 
 # plist restore
 if [[ ! -e $HOME/Dropbox/Mackup/.mackup.cfg ]]; then
-  ln -s %HOME/dotfiles/.mackup.cfg $HOME/Dropbox/Mackup/.mackup.cfg
+  ln -s $HOME/dotfiles/.mackup.cfg $HOME/Dropbox/Mackup/.mackup.cfg
   mackup restore
 fi
 
