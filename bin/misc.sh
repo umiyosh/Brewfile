@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # keyboard
-defaults write NSGlobalDomain KeyRepeat -int   0.02 # キーリピート速度
-defaults write NSGlobalDomain InitialKeyRepeat -int 12 # キーリピート開始までの時間
+defaults write NSGlobalDomain KeyRepeat -int   2 # キーリピート速度
+defaults write NSGlobalDomain InitialKeyRepeat -int 15 # キーリピート開始までの時間
 defaults write -g com.apple.keyboard.fnState -boolean true # activate function key
 
 # animation off
