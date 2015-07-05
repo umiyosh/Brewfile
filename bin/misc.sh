@@ -11,6 +11,7 @@ defaults write com.apple.dock workspaces-edge-delay -float 0;killall Dock
 # finder settings
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 defaults write com.apple.Finder AppleShowAllFiles YES
+defaults write com.apple.finder QLEnableTextSelection -bool true # QuickLook時に文字をコピペ可能にする
 killall Finder
 
 # plist restore
