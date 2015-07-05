@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# keyboard
+defaults write NSGlobalDomain KeyRepeat -int   0.02 # キーリピート速度
+defaults write NSGlobalDomain InitialKeyRepeat -int 12 # キーリピート開始までの時間
+
 # animation off
 defaults write com.apple.dock expose-animation-duration -float 0.1 ; killall Dock
 chflags nohidden ~/Library/
