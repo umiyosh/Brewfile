@@ -3,6 +3,7 @@
 # keyboard
 defaults write NSGlobalDomain KeyRepeat -int   0.02 # キーリピート速度
 defaults write NSGlobalDomain InitialKeyRepeat -int 12 # キーリピート開始までの時間
+defaults write -g com.apple.keyboard.fnState -boolean true # activate function key
 
 # animation off
 defaults write com.apple.dock expose-animation-duration -float 0.1 ; killall Dock
