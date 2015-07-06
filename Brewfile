@@ -199,7 +199,6 @@ cask install menumeters
 cask install macvim-kaoriya
 
 ## peco/peco
-# tap peco/peco
 brew peco
 
 # App Store applications
