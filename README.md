@@ -15,23 +15,8 @@
 % ./bin/brewSetup.sh
 ~~~
 
-* set up Dropbox
-# dotfiles
+# See also
 
+* [umiyosh/OSXBootstrap](https://github.com/umiyosh/OSXBootstrap)
 * [umiyosh/dotfiles](https://github.com/umiyosh/dotfiles)
-
-# misc
-
-TODO: misc.sh化
-
-~~~ bash
-% ./bin/misc.sh
-% ./bin/pySetup.sh
-% ./bin/goSetup.sh
-% brew install rcmdnk/file/brew-file
-% brew file set_repo
-% ./bin/nodeSetup.sh
-% ./bin/plSetup.sh
-% ./bin/rbSetup.sh
-~~~
 
