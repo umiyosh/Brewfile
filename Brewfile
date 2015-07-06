@@ -196,7 +196,7 @@ cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
 cask install menumeters
-# cask install macvim #/Applications/MacVim.app
+cask install macvim-kaoriya
 
 ## peco/peco
 # tap peco/peco
