@@ -179,7 +179,7 @@ cask install gimp #/Applications/GIMP.app
 cask install google-chrome #/Applications/Google Chrome.app
 cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
 cask install iterm2 #/Applications/iTerm.app
-cask install jenkins #/Applications/Jenkins
+# cask install jenkins #/Applications/Jenkins
 cask install karabiner #/Applications/Karabiner.app
 cask install keycastr #/Applications/KeyCastr.app
 cask install kindle #/Applications/Kindle.app
