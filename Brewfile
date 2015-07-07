@@ -182,7 +182,6 @@ cask install iterm2 #/Applications/iTerm.app
 # cask install jenkins #/Applications/Jenkins
 cask install karabiner #/Applications/Karabiner.app
 cask install keycastr #/Applications/KeyCastr.app
-cask install kindle #/Applications/Kindle.app
 cask install kobito #/Applications/Kobito.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
 cask install mysqlworkbench #/Applications/MySQLWorkbench.app
