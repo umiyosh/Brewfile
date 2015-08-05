@@ -195,6 +195,7 @@ cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
 cask install menumeters
+cask install tunnelblick
 
 # Macvim-kaoriya
 tap caskroom/versions
