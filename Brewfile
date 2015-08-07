@@ -196,6 +196,7 @@ cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
 cask install menumeters
 cask install tunnelblick
+cask install hipchat
 
 # Macvim-kaoriya
 tap caskroom/versions
@@ -238,3 +239,4 @@ brew peco
 # appstore WinArchiver
 # appstore Xcode
 # appstore YoruFukurou
+# appstore Slack
