@@ -156,6 +156,7 @@ brew wxmac
 brew xz
 # brew zsh
 brew mackup
+brew mono
 
 # ricty
 tap sanemat/font
