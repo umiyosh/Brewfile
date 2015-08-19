@@ -205,38 +205,3 @@ cask install macvim-kaoriya
 ## peco/peco
 brew peco
 
-# App Store applications
-# appstore 1Keyboard
-# appstore Bubble Browser
-# appstore clip.share
-# appstore Dash
-# appstore Deckset
-# appstore DragonDrop
-# appstore Eggscellent
-# appstore Evernote
-# appstore FeedNotifier
-# appstore FreeRAMBooster
-# appstore GarageBand
-# appstore Growl
-# appstore iMovie
-# appstore iPhoto
-# appstore LINE
-# appstore Monotony
-# appstore moveAddict
-# appstore Pomodoro Timer
-# appstore PomodoroApp
-# appstore PopClip
-# appstore Pushbullet
-# appstore SketchBookExpress
-# appstore Skitch
-# appstore StuffIt Expander
-# appstore SVG Converter
-# appstore SVG to Image
-# appstore TaskPaper
-# appstore Time Track Pro
-# appstore Timer
-# appstore Tumblr
-# appstore WinArchiver
-# appstore Xcode
-# appstore YoruFukurou
-# appstore Slack
