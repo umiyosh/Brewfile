@@ -174,7 +174,6 @@ cask install anki #/Applications/Anki.app
 cask install appcleaner #/Applications/AppCleaner.app
 cask install bettertouchtool #/Applications/BetterTouchTool.app
 cask install disk-inventory-x #/Applications/Disk Inventory X.app
-cask install dragondrop #/Applications/DragonDrop.app
 cask install firefox #/Applications/Firefox.app
 cask install gimp #/Applications/GIMP.app
 cask install google-chrome #/Applications/Google Chrome.app
