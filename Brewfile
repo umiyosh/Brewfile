@@ -34,6 +34,10 @@ brew brew-file
 # java
 cask install java
 
+## hashicorp
+tap homebrew/binary
+brew install packer
+
 ## homebrew/php
 tap homebrew/php
 brew php55-phalcon
