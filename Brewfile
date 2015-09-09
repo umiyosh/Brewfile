@@ -26,6 +26,7 @@ brew libmpc08
 brew mpfr2
 brew openssl098
 brew ppl011
+brew PlantUML
 
 ## rcmdnk/file
 tap rcmdnk/file
