@@ -168,6 +168,7 @@ brew xz
 brew mackup
 brew mono
 brew phpmd
+brew direnv
 
 # ricty
 tap sanemat/font
