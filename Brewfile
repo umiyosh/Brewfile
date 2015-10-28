@@ -169,6 +169,9 @@ brew mackup
 brew mono
 brew phpmd
 brew direnv
+brew rbenv
+brew ruby-build
+brew rbenv-gem-rehash
 
 # ricty
 tap sanemat/font
