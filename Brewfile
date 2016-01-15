@@ -172,6 +172,7 @@ brew direnv
 brew rbenv
 brew ruby-build
 brew rbenv-gem-rehash
+brew pwgen
 
 # ricty
 tap sanemat/font
