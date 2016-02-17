@@ -173,6 +173,7 @@ brew rbenv
 brew ruby-build
 brew rbenv-gem-rehash
 brew pwgen
+brew kubernetes-cli
 
 # ricty
 tap sanemat/font
