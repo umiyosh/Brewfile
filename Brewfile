@@ -50,6 +50,10 @@ brew homebrew/php/composer
 tap yudai/gotty
 brew gotty
 
+# jo
+brew tap caius/jo
+brew install jo
+
 # Other Homebrew packages
 brew libcaca
 brew libevent
