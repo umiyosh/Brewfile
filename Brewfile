@@ -179,6 +179,7 @@ brew rbenv-gem-rehash
 brew pwgen
 brew kubernetes-cli
 brew gawk
+brew ffmpeg
 
 # ricty
 tap sanemat/font
