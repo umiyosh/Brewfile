@@ -180,6 +180,7 @@ brew pwgen
 brew kubernetes-cli
 brew gawk
 brew ffmpeg
+brew glide
 
 # ricty
 tap sanemat/font
