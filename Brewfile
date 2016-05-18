@@ -186,6 +186,10 @@ brew glide
 tap sanemat/font
 brew ricty , args: ['powerline', 'vim-powerline']
 
+# mackerel
+tap mackerelio/mackerel-agent
+brew mkr
+
 # Main tap repository for brew-cask
 install caskroom/cask/brew-cask
 
