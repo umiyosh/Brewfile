@@ -210,7 +210,7 @@ cask install iterm2 #/Applications/iTerm.app
 # cask install jenkins #/Applications/Jenkins
 cask install karabiner #/Applications/Karabiner.app
 cask install keycastr #/Applications/KeyCastr.app
-cask install kobito #/Applications/Kobito.app
+# cask install kobito #/Applications/Kobito.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
 cask install mysqlworkbench #/Applications/MySQLWorkbench.app
 cask install p4merge #/Applications/p4merge.app
