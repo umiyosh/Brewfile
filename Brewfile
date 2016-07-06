@@ -38,6 +38,7 @@ cask install java
 ## hashicorp
 tap homebrew/binary
 brew install packer
+brew install terraform
 
 ## homebrew/php
 tap homebrew/php
