@@ -24,7 +24,7 @@ brew gcc46
 brew gmp4
 brew libmpc08
 brew mpfr2
-brew openssl098
+# brew openssl098
 brew ppl011
 brew PlantUML
 
@@ -170,12 +170,11 @@ brew wxmac
 brew xz
 # brew zsh
 brew mackup
-brew mono
+# brew mono
 brew phpmd
 brew direnv
 brew rbenv
 brew ruby-build
-brew rbenv-gem-rehash
 brew pwgen
 brew kubernetes-cli
 brew gawk
@@ -189,9 +188,6 @@ brew ricty , args: ['powerline', 'vim-powerline']
 # mackerel
 tap mackerelio/mackerel-agent
 brew mkr
-
-# Main tap repository for brew-cask
-install caskroom/cask/brew-cask
 
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
@@ -222,7 +218,7 @@ cask install virtualbox #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
-cask install menumeters
+# cask install menumeters
 cask install tunnelblick
 cask install hipchat
 
