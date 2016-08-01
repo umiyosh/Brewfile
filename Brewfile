@@ -55,6 +55,10 @@ brew gotty
 brew tap caius/jo
 brew install jo
 
+# zsh
+tap umiyosh/homebrew-zsh
+brew zsh
+
 # Other Homebrew packages
 brew libcaca
 brew libevent
@@ -169,7 +173,6 @@ brew watch
 brew wget
 brew wxmac
 brew xz
-# brew zsh
 brew mackup
 # brew mono
 brew phpmd
@@ -204,10 +207,10 @@ cask install gimp #/Applications/GIMP.app
 cask install google-chrome #/Applications/Google Chrome.app
 cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
 cask install iterm2 #/Applications/iTerm.app
-# cask install jenkins #/Applications/Jenkins
+cask install jenkins #/Applications/Jenkins
 cask install karabiner #/Applications/Karabiner.app
 cask install keycastr #/Applications/KeyCastr.app
-# cask install kobito #/Applications/Kobito.app
+cask install kobito #/Applications/Kobito.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
 cask install mysqlworkbench #/Applications/MySQLWorkbench.app
 cask install p4merge #/Applications/p4merge.app
