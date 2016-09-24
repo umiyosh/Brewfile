@@ -57,7 +57,7 @@ brew install jo
 
 # zsh
 tap umiyosh/homebrew-zsh
-brew zsh
+brew umiyosh/zsh/zsh
 
 # Other Homebrew packages
 brew libcaca
