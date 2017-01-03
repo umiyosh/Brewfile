@@ -235,3 +235,5 @@ cask install macvim-kaoriya
 ## peco/peco
 brew peco
 
+## fzf
+brew fzf
