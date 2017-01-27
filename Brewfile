@@ -186,6 +186,8 @@ brew ffmpeg
 brew glide
 brew rbenv
 brew ruby-build
+brew sbt
+brew scalaenv
 
 # ricty
 tap sanemat/font
