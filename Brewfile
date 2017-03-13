@@ -188,6 +188,7 @@ brew rbenv
 brew ruby-build
 brew sbt
 brew scalaenv
+brew slackcat
 
 # ricty
 tap sanemat/font
