@@ -191,6 +191,7 @@ brew scalaenv
 brew slackcat
 brew shellcheck
 brew gibo
+brew exa
 
 # ricty
 tap sanemat/font
