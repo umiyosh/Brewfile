@@ -192,6 +192,7 @@ brew slackcat
 brew shellcheck
 brew gibo
 brew exa
+brew thefuck
 
 # ricty
 tap sanemat/font
