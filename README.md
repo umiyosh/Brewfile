@@ -1,4 +1,4 @@
-# 自分のBrewfile
+# My Brewfile
 
 # a precondition
 
