@@ -234,6 +234,7 @@ cask install google-japanese-ime
 # cask install menumeters
 cask install tunnelblick
 cask install hipchat
+cask install ngrok
 
 # Macvim-kaoriya
 tap caskroom/versions
