@@ -194,6 +194,7 @@ brew gibo
 brew exa
 brew thefuck
 brew jenkins
+brew rmtrash
 
 # ricty
 tap sanemat/font
