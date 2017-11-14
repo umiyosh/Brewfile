@@ -239,6 +239,8 @@ cask install ngrok
 # Macvim-kaoriya
 tap caskroom/versions
 cask install macvim-kaoriya
+# NeoVIm
+brew neovim
 
 ## peco/peco
 brew peco
