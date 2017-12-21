@@ -151,9 +151,8 @@ brew proctools
 brew protobuf
 brew pstree
 brew pv
-brew pyenv
-brew pyenv-virtualenv
 brew python
+brew python3
 brew qt
 brew readline
 brew reattach-to-user-namespace
