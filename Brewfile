@@ -40,12 +40,6 @@ tap homebrew/binary
 brew install packer
 brew install terraform
 
-## homebrew/php
-tap homebrew/php
-brew php55-phalcon
-brew php55
-brew homebrew/php/composer
-
 ## gotty with tmux
 ## http://takezoe.hatenablog.com/entry/2015/09/05/101901
 tap yudai/gotty
