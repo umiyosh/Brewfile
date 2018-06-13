@@ -188,6 +188,7 @@ brew exa
 brew thefuck
 brew jenkins
 brew lua
+brew dep
 
 # ricty
 tap sanemat/font
