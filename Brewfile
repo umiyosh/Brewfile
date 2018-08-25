@@ -49,10 +49,6 @@ brew gotty
 brew tap caius/jo
 brew install jo
 
-# zsh
-tap umiyosh/homebrew-zsh
-brew umiyosh/zsh/zsh
-
 # Other Homebrew packages
 brew libcaca
 brew libevent
@@ -168,6 +164,7 @@ brew wxmac
 brew xz
 brew mackup
 # brew mono
+brew zsh
 brew phpmd
 brew direnv
 brew rbenv
