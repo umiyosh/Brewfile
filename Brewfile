@@ -230,10 +230,8 @@ cask install google-japanese-ime
 cask install tunnelblick
 cask install hipchat
 cask install ngrok
+cask install macvim
 
-# Macvim-kaoriya
-tap caskroom/versions
-cask install macvim-kaoriya
 # NeoVIm
 brew neovim
 
