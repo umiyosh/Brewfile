@@ -195,6 +195,10 @@ brew ricty , args: ['powerline', 'vim-powerline']
 tap mackerelio/mackerel-agent
 brew mkr
 
+# kns
+brew tap blendle/blendle
+brew install kns
+
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
 cask install fontforge #/Applications/Utilities/XQuartz.app
