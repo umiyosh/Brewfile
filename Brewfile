@@ -10,8 +10,6 @@ cask install dropbox #/Applications/Dropbox.app
 ## homebrew/brewdler
 tap homebrew/brewdler
 
-## homebrew/dupes
-tap homebrew/dupes
 brew apple-gcc42
 brew libiconv
 brew openssh --with-keychain-support
