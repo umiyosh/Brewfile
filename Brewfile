@@ -7,16 +7,11 @@ brew brew-cask
 # Dropbox
 cask install dropbox #/Applications/Dropbox.app
 
-## homebrew/brewdler
-tap homebrew/brewdler
-
 brew apple-gcc42
 brew libiconv
 brew openssh --with-keychain-support
 brew zlib
 
-## homebrew/versions
-tap homebrew/versions
 brew cloog-ppl015
 brew gcc46
 brew gmp4
@@ -34,7 +29,6 @@ brew brew-file
 cask install java
 
 ## hashicorp
-tap homebrew/binary
 brew install packer
 brew install terraform
 
