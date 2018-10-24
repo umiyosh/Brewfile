@@ -6,7 +6,6 @@ tap caskroom/cask
 # Dropbox
 cask install dropbox #/Applications/Dropbox.app
 
-brew apple-gcc42
 brew libiconv
 brew openssh --with-keychain-support
 brew zlib
