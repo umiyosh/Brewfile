@@ -2,7 +2,6 @@
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 
 # Dropbox
 cask install dropbox #/Applications/Dropbox.app
