@@ -90,7 +90,6 @@ brew imagemagick
 brew irssi
 brew isl
 brew jasper
-brew javarepl
 brew jpeg
 brew jq
 brew little-cms
