@@ -210,10 +210,8 @@ cask install karabiner-elements #/Applications/karabiner-elements.app
 cask install keycastr #/Applications/KeyCastr.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
 cask install mysqlworkbench #/Applications/MySQLWorkbench.app
-cask install p4merge #/Applications/p4merge.app
 cask install skype #/Applications/Skype.app
 cask install sourcetree #/Applications/SourceTree.app
-cask install totalterminal #/Applications/TotalTerminal.app
 cask install vagrant #/Applications/Vagrant
 cask install virtualbox #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
