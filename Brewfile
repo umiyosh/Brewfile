@@ -10,13 +10,6 @@ brew libiconv
 brew openssh --with-keychain-support
 brew zlib
 
-brew cloog-ppl015
-brew gcc46
-brew gmp4
-brew libmpc08
-brew mpfr2
-# brew openssl098
-brew ppl011
 brew PlantUML
 
 ## rcmdnk/file
@@ -27,8 +20,8 @@ brew brew-file
 cask install java
 
 ## hashicorp
-brew install packer
-brew install terraform
+brew packer
+brew terraform
 
 ## gotty with tmux
 ## http://takezoe.hatenablog.com/entry/2015/09/05/101901
@@ -102,7 +95,6 @@ brew jpeg
 brew jq
 brew little-cms
 brew lv
-brew lynx
 brew makedepend
 brew mobile-shell
 brew mongodb
@@ -153,9 +145,6 @@ brew wget
 brew wxmac
 brew xz
 brew mackup
-# brew mono
-brew zsh
-brew phpmd
 brew direnv
 brew rbenv
 brew ruby-build
@@ -188,7 +177,11 @@ brew mkr
 
 # kns
 brew tap blendle/blendle
-brew install kns
+brew kns
+
+# zsh
+brew tap umiyosh/homebrew-zsh
+brew umiyosh/zsh/zsh
 
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
@@ -215,7 +208,7 @@ cask install virtualbox --force #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
-# cask install menumeters
+cask install menumeters
 cask install tunnelblick
 cask install hipchat
 cask install ngrok
@@ -223,9 +216,6 @@ cask install macvim
 
 # NeoVIm
 brew neovim
-
-## peco/peco
-brew peco
 
 ## fzf
 brew fzf
