@@ -208,7 +208,7 @@ cask install virtualbox --force #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
-cask install menumeters
+# cask install menumeters
 cask install tunnelblick
 cask install hipchat
 cask install ngrok
