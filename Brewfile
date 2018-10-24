@@ -203,7 +203,7 @@ cask install mysqlworkbench #/Applications/MySQLWorkbench.app
 cask install skype #/Applications/Skype.app
 cask install sourcetree #/Applications/SourceTree.app
 cask install vagrant #/Applications/Vagrant
-cask install virtualbox --force #/Applications/VirtualBox.app
+# cask install virtualbox --force #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
