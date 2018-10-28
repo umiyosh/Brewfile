@@ -212,6 +212,8 @@ cask install hipchat
 cask install ngrok
 cask install macvim
 cask install fuwari # screen capture extention
+cask install deckset
+
 # NeoVIm
 brew neovim
 
