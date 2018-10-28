@@ -212,7 +212,7 @@ cask install tunnelblick
 cask install hipchat
 cask install ngrok
 cask install macvim
-
+cask install fuwari # screen capture extention
 # NeoVIm
 brew neovim
 
