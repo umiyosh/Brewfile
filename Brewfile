@@ -213,6 +213,7 @@ cask install ngrok
 cask install macvim
 cask install fuwari # screen capture extention
 cask install deckset
+cask install docker
 
 # NeoVIm
 brew neovim
