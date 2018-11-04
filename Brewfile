@@ -164,6 +164,7 @@ brew jenkins
 brew lua
 brew dep
 brew mitmproxy
+brew heroku/brew/heroku
 
 # ricty
 tap sanemat/font
