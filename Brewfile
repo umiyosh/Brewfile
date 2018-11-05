@@ -165,6 +165,7 @@ brew lua
 brew dep
 brew mitmproxy
 brew heroku/brew/heroku
+brew git-lfs
 
 # ricty
 tap sanemat/font
