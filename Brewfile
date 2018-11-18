@@ -217,6 +217,7 @@ cask install macvim
 cask install fuwari # screen capture extention
 cask install deckset
 cask install docker
+cask install accessmenubarapps
 
 # NeoVIm
 brew neovim
