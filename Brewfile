@@ -167,6 +167,7 @@ brew mitmproxy
 brew heroku/brew/heroku
 brew git-lfs
 brew sipcalc
+brew ghi
 
 # ricty
 tap sanemat/font
