@@ -168,6 +168,7 @@ brew heroku/brew/heroku
 brew git-lfs
 brew sipcalc
 brew ghi
+brew ripgrep
 
 # ricty
 tap sanemat/font
