@@ -220,6 +220,7 @@ cask install fuwari # screen capture extention
 cask install deckset
 cask install docker
 cask install accessmenubarapps
+cask install dash
 
 # NeoVIm
 brew neovim
