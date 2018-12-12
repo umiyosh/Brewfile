@@ -169,6 +169,7 @@ brew git-lfs
 brew sipcalc
 brew ghi
 brew ripgrep
+brew redis
 
 # ricty
 tap sanemat/font
