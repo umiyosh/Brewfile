@@ -170,6 +170,7 @@ brew sipcalc
 brew ghi
 brew ripgrep
 brew redis
+brew expect
 
 # ricty
 tap sanemat/font
