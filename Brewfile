@@ -171,6 +171,7 @@ brew ghi
 brew ripgrep
 brew redis
 brew expect
+brew modd
 
 # ricty
 tap sanemat/font
