@@ -172,6 +172,7 @@ brew ripgrep
 brew redis
 brew expect
 brew modd
+brew tfenv
 
 # ricty
 tap sanemat/font
