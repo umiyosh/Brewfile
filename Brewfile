@@ -173,6 +173,7 @@ brew redis
 brew expect
 brew modd
 brew tfenv
+brew mtr
 
 # ricty
 tap sanemat/font
