@@ -226,6 +226,7 @@ cask install deckset
 cask install docker
 cask install accessmenubarapps
 cask install dash
+cask install alacritty
 
 # NeoVIm
 brew neovim
