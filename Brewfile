@@ -7,7 +7,7 @@ tap caskroom/cask
 cask install dropbox #/Applications/Dropbox.app
 
 brew libiconv
-brew openssh --with-keychain-support
+brew openssh
 brew zlib
 
 brew PlantUML
@@ -21,7 +21,6 @@ cask install java
 
 ## hashicorp
 brew packer
-brew terraform
 
 ## gotty with tmux
 ## http://takezoe.hatenablog.com/entry/2015/09/05/101901
@@ -160,7 +159,6 @@ brew slackcat
 brew shellcheck
 brew gibo
 brew exa
-brew jenkins
 brew lua
 brew dep
 brew mitmproxy
@@ -177,7 +175,7 @@ brew mtr
 
 # ricty
 tap sanemat/font
-brew ricty , args: ['powerline', 'vim-powerline']
+brew ricty , args: ['with-powerline']
 
 # mackerel
 tap mackerelio/mackerel-agent
