@@ -31,6 +31,10 @@ brew gotty
 brew tap caius/jo
 brew install jo
 
+# telepresence
+brew cask install osxfuse
+brew install datawire/blackbird/telepresence
+
 # Other Homebrew packages
 brew libcaca
 brew libevent
