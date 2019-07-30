@@ -227,6 +227,7 @@ cask install docker
 cask install accessmenubarapps
 cask install dash
 cask install alacritty
+cask install vlc
 
 # NeoVIm
 brew neovim
