@@ -148,7 +148,6 @@ brew wxmac
 brew xz
 brew mackup
 brew direnv
-brew rbenv
 brew ruby-build
 brew pwgen
 brew kubernetes-cli
