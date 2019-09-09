@@ -176,6 +176,7 @@ brew modd
 brew tfenv
 brew mtr
 brew brotli
+brew stern
 
 # ricty
 tap sanemat/font
