@@ -177,6 +177,7 @@ brew tfenv
 brew mtr
 brew brotli
 brew stern
+brew kubernetes-helm
 
 # ricty
 tap sanemat/font
