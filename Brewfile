@@ -232,6 +232,7 @@ cask install accessmenubarapps
 cask install dash
 cask install alacritty
 cask install vlc
+cask install joplin
 
 # NeoVIm
 brew neovim
