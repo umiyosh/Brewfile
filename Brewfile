@@ -178,6 +178,8 @@ brew mtr
 brew brotli
 brew stern
 brew kubernetes-helm
+brew cmigemo
+brew stern
 
 # ricty
 tap sanemat/font
@@ -233,6 +235,7 @@ cask install dash
 cask install alacritty
 cask install vlc
 cask install joplin
+cask install mobster
 
 # NeoVIm
 brew neovim
