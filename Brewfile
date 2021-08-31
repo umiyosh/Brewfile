@@ -222,7 +222,6 @@ cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
 # cask install menumeters
 cask install tunnelblick
-cask install hipchat
 cask install ngrok
 cask install macvim
 cask install fuwari # screen capture extention
