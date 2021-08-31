@@ -1,7 +1,7 @@
 # tap repositories and their packages
 
-## caskroom/cask
-tap caskroom/cask
+## cask
+tap homebrew/cask
 
 # Dropbox
 cask install dropbox #/Applications/Dropbox.app
