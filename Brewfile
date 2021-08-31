@@ -16,9 +16,6 @@ brew PlantUML
 tap rcmdnk/file
 brew brew-file
 
-# java
-cask install java
-
 ## hashicorp
 brew packer
 
@@ -180,6 +177,7 @@ brew stern
 brew kubernetes-helm
 brew cmigemo
 brew stern
+brew java
 
 # ricty
 tap sanemat/font
