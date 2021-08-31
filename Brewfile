@@ -96,7 +96,6 @@ brew little-cms
 brew lv
 brew makedepend
 brew mobile-shell
-brew mongodb
 brew mpfr
 brew mysql
 brew ncftp
