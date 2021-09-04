@@ -177,6 +177,7 @@ brew kubernetes-helm
 brew cmigemo
 brew stern
 brew java
+brew kubectx
 
 # ricty
 tap sanemat/font
