@@ -178,6 +178,7 @@ brew cmigemo
 brew stern
 brew java
 brew kubectx
+brew pipx
 
 # ricty
 tap sanemat/font
