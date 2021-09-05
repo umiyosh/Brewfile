@@ -179,6 +179,7 @@ brew stern
 brew java
 brew kubectx
 brew pipx
+brew k9s
 
 # ricty
 tap sanemat/font
