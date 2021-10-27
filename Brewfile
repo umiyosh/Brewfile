@@ -32,6 +32,9 @@ brew install jo
 brew cask install osxfuse
 brew install datawire/blackbird/telepresence
 
+# helmswitcher
+brew tokiwong/tap/helm-switcher
+
 # Other Homebrew packages
 brew libcaca
 brew libevent
