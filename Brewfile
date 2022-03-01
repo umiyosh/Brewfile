@@ -183,6 +183,7 @@ brew java
 brew kubectx
 brew pipx
 brew k9s
+brew fabianishere/personal/pam_reattach
 
 # ricty
 tap sanemat/font
