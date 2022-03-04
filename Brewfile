@@ -184,6 +184,7 @@ brew kubectx
 brew pipx
 brew k9s
 brew fabianishere/personal/pam_reattach
+brew krew
 
 # ricty
 tap sanemat/font
