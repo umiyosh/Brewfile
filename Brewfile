@@ -185,6 +185,7 @@ brew pipx
 brew k9s
 brew fabianishere/personal/pam_reattach
 brew krew
+brew bat
 
 # ricty
 tap sanemat/font
