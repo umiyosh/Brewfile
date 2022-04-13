@@ -186,6 +186,7 @@ brew k9s
 brew fabianishere/personal/pam_reattach
 brew krew
 brew bat
+brew hashicorp/tap/terraform-ls
 
 # ricty
 tap sanemat/font
