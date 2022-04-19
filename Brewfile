@@ -204,6 +204,11 @@ brew kns
 brew tap umiyosh/homebrew-zsh
 brew umiyosh/zsh/zsh
 
+# hackgen
+brew tap homebrew/cask-fonts
+brew font-hackgen
+brew font-hackgen-nerd
+
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
 cask install fontforge #/Applications/Utilities/XQuartz.app
