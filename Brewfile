@@ -188,10 +188,6 @@ brew krew
 brew bat
 brew hashicorp/tap/terraform-ls
 
-# ricty
-tap sanemat/font
-brew ricty , args: ['with-powerline']
-
 # mackerel
 tap mackerelio/mackerel-agent
 brew mkr
