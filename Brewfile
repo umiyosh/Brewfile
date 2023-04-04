@@ -187,6 +187,7 @@ brew fabianishere/personal/pam_reattach
 brew krew
 brew bat
 brew hashicorp/tap/terraform-ls
+brew dust
 
 # mackerel
 tap mackerelio/mackerel-agent
