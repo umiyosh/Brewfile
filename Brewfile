@@ -136,7 +136,6 @@ brew unixodbc
 brew w3m
 brew watch
 brew wget
-brew wxmac
 brew xz
 brew mackup
 brew direnv
