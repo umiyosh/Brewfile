@@ -154,7 +154,6 @@ brew gibo
 brew exa
 brew lua
 brew mitmproxy
-brew heroku/brew/heroku
 brew git-lfs
 brew sipcalc
 brew ghi
