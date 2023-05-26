@@ -167,7 +167,7 @@ brew tfenv
 brew mtr
 brew brotli
 brew stern
-brew kubernetes-helm
+brew helm
 brew cmigemo
 brew stern
 brew java
