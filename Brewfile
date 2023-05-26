@@ -169,7 +169,6 @@ brew ghi
 brew ripgrep
 brew redis
 brew expect
-brew modd
 brew tfenv
 brew mtr
 brew brotli
