@@ -194,8 +194,8 @@ tap mackerelio/mackerel-agent
 brew mkr
 
 # kns
-brew tap blendle/blendle
-brew kns
+# brew tap blendle/blendle
+# brew kns
 
 # hackgen
 brew tap homebrew/cask-fonts
@@ -239,5 +239,3 @@ cask install joplin
 # NeoVIm
 brew neovim
 
-## fzf
-brew fzf
