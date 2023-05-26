@@ -19,11 +19,6 @@ brew brew-file
 ## hashicorp
 brew packer
 
-## gotty with tmux
-## http://takezoe.hatenablog.com/entry/2015/09/05/101901
-tap yudai/gotty
-brew gotty
-
 # jo
 brew tap caius/jo
 brew install jo
