@@ -161,7 +161,6 @@ brew shellcheck
 brew gibo
 brew exa
 brew lua
-brew dep
 brew mitmproxy
 brew heroku/brew/heroku
 brew git-lfs
