@@ -197,10 +197,6 @@ brew mkr
 brew tap blendle/blendle
 brew kns
 
-# zsh
-brew tap umiyosh/homebrew-zsh
-brew umiyosh/zsh/zsh
-
 # hackgen
 brew tap homebrew/cask-fonts
 brew font-hackgen
