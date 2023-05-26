@@ -65,7 +65,6 @@ brew curl
 brew doxygen
 brew erlang
 brew fontconfig
-brew fontforge
 brew freetype
 brew gcc
 brew gdbm
@@ -195,7 +194,6 @@ brew font-hackgen-nerd
 
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
-cask install fontforge #/Applications/Utilities/XQuartz.app
 cask install alfred #/Applications/Alfred 2.app
 cask alfred link
 cask install anki #/Applications/Anki.app
