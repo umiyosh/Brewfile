@@ -215,16 +215,13 @@ cask install anki #/Applications/Anki.app
 cask install appcleaner #/Applications/AppCleaner.app
 cask install bettertouchtool #/Applications/BetterTouchTool.app
 cask install disk-inventory-x #/Applications/Disk Inventory X.app
-cask install firefox #/Applications/Firefox.app
 cask install gimp #/Applications/GIMP.app
 cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
 cask install iterm2 #/Applications/iTerm.app
 cask install karabiner-elements #/Applications/karabiner-elements.app
 cask install keycastr #/Applications/KeyCastr.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
-cask install mysqlworkbench #/Applications/MySQLWorkbench.app
 cask install skype #/Applications/Skype.app
-cask install sourcetree #/Applications/SourceTree.app
 cask install vagrant #/Applications/Vagrant
 # cask install virtualbox --force #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
@@ -242,7 +239,6 @@ cask install dash
 cask install alacritty
 cask install vlc
 cask install joplin
-cask install mobster
 
 # NeoVIm
 brew neovim
