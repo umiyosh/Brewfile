@@ -80,7 +80,7 @@ brew gobject-introspection
 brew graphviz
 brew harfbuzz
 brew htop-osx
-brew hub --HEAD
+brew hub
 brew icu4c
 brew imagemagick
 brew irssi
