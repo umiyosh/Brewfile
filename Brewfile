@@ -112,7 +112,6 @@ brew pidof
 brew pixman
 brew pkg-config
 brew pngpaste
-brew postgresql
 brew potrace
 brew proctools
 brew protobuf
