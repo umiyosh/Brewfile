@@ -223,6 +223,7 @@ cask install dash
 cask install alacritty
 cask install vlc
 cask install joplin
+cask install slack
 
 # NeoVIm
 brew neovim
