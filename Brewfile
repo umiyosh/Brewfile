@@ -178,6 +178,7 @@ brew hashicorp/tap/terraform-ls
 brew dust
 brew fabianishere/personal/pam_reattach
 brew yj
+brew gh
 
 # mackerel
 tap mackerelio/mackerel-agent
