@@ -179,6 +179,7 @@ brew dust
 brew fabianishere/personal/pam_reattach
 brew yj
 brew gh
+brew gron
 
 # mackerel
 tap mackerelio/mackerel-agent
