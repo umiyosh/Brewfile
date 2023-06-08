@@ -194,6 +194,10 @@ brew tap homebrew/cask-fonts
 brew font-hackgen
 brew font-hackgen-nerd
 
+# todoist cli
+brew tap sachaos/todoist
+brew todoist
+
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
 cask install alfred #/Applications/Alfred 2.app
