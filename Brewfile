@@ -180,6 +180,7 @@ brew fabianishere/personal/pam_reattach
 brew yj
 brew gh
 brew gron
+brwe orbstack
 
 # mackerel
 tap mackerelio/mackerel-agent
