@@ -181,6 +181,7 @@ brew yj
 brew gh
 brew gron
 brwe orbstack
+brew gping
 
 # mackerel
 tap mackerelio/mackerel-agent
