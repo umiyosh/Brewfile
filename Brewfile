@@ -233,6 +233,7 @@ cask install alacritty
 cask install vlc
 cask install joplin
 cask install slack
+cask install visual-studio-code
 
 # NeoVIm
 brew neovim
