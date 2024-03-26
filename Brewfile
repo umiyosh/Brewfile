@@ -182,6 +182,7 @@ brew gh
 brew gron
 brwe orbstack
 brew gping
+brew difftastic
 
 # mackerel
 tap mackerelio/mackerel-agent
