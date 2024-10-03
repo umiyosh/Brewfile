@@ -151,7 +151,7 @@ brew scalaenv
 brew slackcat
 brew shellcheck
 brew gibo
-brew exa
+brew eza
 brew lua
 brew mitmproxy
 brew git-lfs
