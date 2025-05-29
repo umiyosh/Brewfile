@@ -183,6 +183,7 @@ brew gron
 brwe orbstack
 brew gping
 brew difftastic
+brew knqyf263/pet/pet
 
 # mackerel
 tap mackerelio/mackerel-agent
