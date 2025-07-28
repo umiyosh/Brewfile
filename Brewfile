@@ -238,7 +238,7 @@ cask install slack
 cask install visual-studio-code
 cask install obsidian
 casc install neovim-qt
-
+casc install tailscale
 
 # NeoVIm
 brew neovim
