@@ -185,10 +185,6 @@ brew gping
 brew difftastic
 brew knqyf263/pet/pet
 
-# mackerel
-tap mackerelio/mackerel-agent
-brew mkr
-
 # kns
 # brew tap blendle/blendle
 # brew kns
@@ -215,7 +211,6 @@ cask install iterm2 #/Applications/iTerm.app
 cask install karabiner-elements #/Applications/karabiner-elements.app
 cask install keycastr #/Applications/KeyCastr.app
 cask install macs-fan-control #/Applications/Macs Fan Control.app
-cask install skype #/Applications/Skype.app
 cask install vagrant #/Applications/Vagrant
 # cask install virtualbox --force #/Applications/VirtualBox.app
 cask install wireshark #/Applications/Wireshark.app
