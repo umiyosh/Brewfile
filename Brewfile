@@ -179,8 +179,8 @@ brew difftastic
 brew knqyf263/pet/pet
 
 # kns
-# brew tap blendle/blendle
-# brew kns
+brew tap blendle/blendle
+brew kns
 
 # hackgen
 brew font-hackgen
