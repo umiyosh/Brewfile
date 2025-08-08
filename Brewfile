@@ -194,7 +194,6 @@ brew mkr
 # brew kns
 
 # hackgen
-brew tap homebrew/cask-fonts
 brew font-hackgen
 brew font-hackgen-nerd
 
