@@ -102,8 +102,6 @@ brew openssl
 brew ossp-uuid
 brew pango
 brew parallel
-brew pcre
-brew pcre++
 brew pidof
 brew pixman
 brew pkg-config
