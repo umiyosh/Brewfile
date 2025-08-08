@@ -173,7 +173,7 @@ brew fabianishere/personal/pam_reattach
 brew yj
 brew gh
 brew gron
-brwe orbstack
+brew orbstack
 brew gping
 brew difftastic
 brew knqyf263/pet/pet
