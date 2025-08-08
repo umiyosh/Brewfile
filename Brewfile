@@ -138,7 +138,6 @@ brew pwgen
 brew kubernetes-cli
 brew gawk
 brew ffmpeg
-brew glide
 brew rbenv
 brew ruby-build
 brew sbt
