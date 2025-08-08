@@ -16,9 +16,6 @@ brew PlantUML
 tap rcmdnk/file
 brew brew-file
 
-## hashicorp
-brew packer
-
 # jo
 brew tap caius/jo
 brew install jo
