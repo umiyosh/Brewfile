@@ -85,7 +85,6 @@ brew isl
 brew jasper
 brew jpeg
 brew jq
-brew little-cms
 brew lv
 brew makedepend
 brew mobile-shell
