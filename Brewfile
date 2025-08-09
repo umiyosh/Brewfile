@@ -225,6 +225,7 @@ cask install slack
 cask install visual-studio-code
 cask install obsidian
 cask install tailscale
+cask install 1password
 
 # NeoVIm
 brew neovim
