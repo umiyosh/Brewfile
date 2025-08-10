@@ -226,6 +226,7 @@ cask install visual-studio-code
 cask install obsidian
 cask install tailscale
 cask install 1password
+cask install atok
 
 # NeoVIm
 brew neovim
