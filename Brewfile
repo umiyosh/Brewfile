@@ -229,6 +229,7 @@ cask install 1password
 cask install atok
 cask install superwhisper
 cask install aqua-voice
+cask install zoom
 
 # NeoVIm
 brew neovim
