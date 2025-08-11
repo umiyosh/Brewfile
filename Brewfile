@@ -230,6 +230,7 @@ cask install atok
 cask install superwhisper
 cask install aqua-voice
 cask install zoom
+cask install bitwarden
 
 # NeoVIm
 brew neovim
