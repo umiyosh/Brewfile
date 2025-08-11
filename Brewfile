@@ -227,6 +227,7 @@ cask install obsidian
 cask install tailscale
 cask install 1password
 cask install atok
+cask install superwhisper
 
 # NeoVIm
 brew neovim
