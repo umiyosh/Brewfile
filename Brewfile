@@ -231,6 +231,7 @@ cask install superwhisper
 cask install aqua-voice
 cask install zoom
 cask install bitwarden
+cask install ghostty
 
 # NeoVIm
 brew neovim
