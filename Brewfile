@@ -232,6 +232,7 @@ cask install aqua-voice
 cask install zoom
 cask install bitwarden
 cask install ghostty
+cask install discord
 
 # NeoVIm
 brew neovim
