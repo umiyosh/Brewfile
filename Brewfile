@@ -233,6 +233,7 @@ cask install zoom
 cask install bitwarden
 cask install ghostty
 cask install discord
+cask install menumeters
 
 # NeoVIm
 brew neovim
