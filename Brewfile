@@ -177,6 +177,7 @@ brew orbstack
 brew gping
 brew difftastic
 brew knqyf263/pet/pet
+brew uv
 
 # kns
 brew tap blendle/blendle
