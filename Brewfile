@@ -178,6 +178,7 @@ brew gping
 brew difftastic
 brew knqyf263/pet/pet
 brew uv
+brew golangci-lint
 
 # kns
 brew tap blendle/blendle
@@ -236,6 +237,7 @@ cask install ghostty
 cask install discord
 cask install eenumeters
 cask install cursor
+cask install caffeine
 
 # NeoVIm
 brew neovim
