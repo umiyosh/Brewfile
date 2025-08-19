@@ -179,6 +179,7 @@ brew difftastic
 brew knqyf263/pet/pet
 brew uv
 brew golangci-lint
+brew kustomize
 
 # kns
 brew tap blendle/blendle
