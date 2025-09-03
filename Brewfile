@@ -180,6 +180,7 @@ brew knqyf263/pet/pet
 brew uv
 brew golangci-lint
 brew kustomize
+brew pandoc
 
 # kns
 brew tap blendle/blendle
