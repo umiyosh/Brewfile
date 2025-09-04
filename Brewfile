@@ -181,6 +181,7 @@ brew uv
 brew golangci-lint
 brew kustomize
 brew pandoc
+brew codex
 
 # kns
 brew tap blendle/blendle
