@@ -241,6 +241,7 @@ cask install discord
 cask install eenumeters
 cask install cursor
 cask install caffeine
+cask install hammerspoon
 
 # NeoVIm
 brew neovim
