@@ -182,6 +182,7 @@ brew golangci-lint
 brew kustomize
 brew pandoc
 brew codex
+brew qpdf
 
 # kns
 brew tap blendle/blendle
