@@ -243,6 +243,7 @@ cask install eenumeters
 cask install cursor
 cask install caffeine
 cask install hammerspoon
+cask install raycast
 
 # NeoVIm
 brew neovim
