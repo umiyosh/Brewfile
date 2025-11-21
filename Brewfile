@@ -198,8 +198,6 @@ brew todoist
 
 # Apps installed directly instead of by Cask in brew-cask
 cask install xquartz #/Applications/Utilities/XQuartz.app
-cask install alfred #/Applications/Alfred 2.app
-cask alfred link
 cask install anki #/Applications/Anki.app
 cask install appcleaner #/Applications/AppCleaner.app
 cask install bettertouchtool #/Applications/BetterTouchTool.app
