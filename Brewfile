@@ -244,6 +244,7 @@ cask install cursor
 cask install caffeine
 cask install hammerspoon
 cask install raycast
+cask install twingate
 
 # NeoVIm
 brew neovim
