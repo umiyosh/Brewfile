@@ -244,6 +244,15 @@ cask install hammerspoon
 cask install raycast
 cask install twingate
 
+# yazi (terminal file manager)
+brew yazi
+brew sevenzip
+brew poppler
+brew fd
+brew zoxide
+brew resvg
+brew font-symbols-only-nerd-font
+
 # NeoVIm
 brew neovim
 brew neovim-qt
