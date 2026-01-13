@@ -106,7 +106,6 @@ brew pixman
 brew pkg-config
 brew pngpaste
 brew potrace
-brew proctools
 brew protobuf
 brew pstree
 brew pv
