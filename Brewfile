@@ -182,6 +182,8 @@ brew kustomize
 brew pandoc
 brew codex
 brew qpdf
+brew rga
+brew poppler
 
 # kns
 brew tap blendle/blendle
