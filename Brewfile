@@ -204,7 +204,6 @@ cask install appcleaner #/Applications/AppCleaner.app
 cask install bettertouchtool #/Applications/BetterTouchTool.app
 cask install disk-inventory-x #/Applications/Disk Inventory X.app
 cask install gimp #/Applications/GIMP.app
-cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
 cask install iterm2 #/Applications/iTerm.app
 cask install karabiner-elements #/Applications/karabiner-elements.app
 cask install keycastr #/Applications/KeyCastr.app
@@ -215,7 +214,6 @@ cask install wireshark #/Applications/Wireshark.app
 cask install xmind #/Applications/XMind.app
 cask install google-japanese-ime
 # cask install menumeters
-cask install tunnelblick
 cask install ngrok
 cask install macvim
 cask install fuwari # screen capture extention
@@ -235,7 +233,6 @@ cask install atok
 cask install superwhisper
 cask install aqua-voice
 cask install zoom
-cask install bitwarden
 cask install ghostty
 cask install discord
 cask install eenumeters
