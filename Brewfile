@@ -184,6 +184,7 @@ brew codex
 brew qpdf
 brew rga
 brew poppler
+brew ddgr
 
 # kns
 brew tap blendle/blendle
