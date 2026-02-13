@@ -185,6 +185,7 @@ brew qpdf
 brew rga
 brew poppler
 brew ddgr
+brew swiftlint
 
 # kns
 brew tap blendle/blendle
