@@ -186,6 +186,7 @@ brew rga
 brew poppler
 brew ddgr
 brew swiftlint
+brew k1LoW/tap/git-wt
 
 # kns
 brew tap blendle/blendle
